@@ -1,0 +1,8 @@
+Package:necker-dev
+Version: @VERSION@
+Section: devel
+Priority: optional
+Architecture: @ARCH@
+Depends:
+Maintainer: Robin D. Knight, Kim Wheeler <contact@necker.org>
+Description: necker development package.

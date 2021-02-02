@@ -1,0 +1,10 @@
+/*! \file
+
+\page page_apps Applications
+\section apps_clan clan
+\verbinclude /prj/necker/src/clan/README.md
+
+\section apps_stone stones
+\verbinclude /prj/necker/src/stones/README.md
+
+*/ // end comment block

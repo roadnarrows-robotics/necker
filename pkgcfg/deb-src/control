@@ -1,0 +1,7 @@
+Package:necker-src
+Version: @VERSION@
+Section: src
+Priority: optional
+Architecture: @ARCH@
+Maintainer: Robin D. Knight, Kim Wheeler <contact@necker.org>
+Description: necker source package.
