@@ -12,3 +12,4 @@
 *.done
 src/include/necker/version.h
 src/python/setup.py
+/docs/whitepapers
