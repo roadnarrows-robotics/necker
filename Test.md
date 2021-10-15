@@ -3,7 +3,7 @@ Validate the workspace newly created by the **rnnew_workspace** tool by
 executing the sequence of instructions listed below.
 
 All steps are executed in a bash or simular POSIX shell. Also, the assumed
-rnmake architecture is x86_64. Modify as needed.
+necker architecture is x86_64. Modify as needed.
 
 If desired, view this markdown in a browser:
 ```sh
